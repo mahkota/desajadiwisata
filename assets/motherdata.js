@@ -240,32 +240,6 @@ const MAIN_DATA = JSON.parse(`
                 "assets/images/dw/dronecap/DJI_0206.JPG",
                 "assets/images/dw/dronecap/DJI_0207.JPG"
             ]
-        },
-        {
-            "big_title": "Desa Sariwangi",
-            "big_img": "assets/images/sw/dronecap/DJI_0002.JPG",
-            "judul_penelitian": "Tes",
-            "peneliti": "Lorem ipsum",
-            "deskripsi": "-",
-            "tanggal_penelitian": "10-10-2020",
-            "tempat_penelitian": "Cianjur",
-            "coord_map": [-6.854306, 107.065604],
-            "coord_marker": [-6.853606, 107.065386],
-            "doc": "assets/docs/sw/Dokumen_Contoh.txt",
-            "src_360": {
-                "file": "assets/images/sw/threesixty/contour_360.png",
-                "title": "3D Mapping Lokasi Desa Wisata Sariwangi"
-            },
-            "src_3d": [
-                {"top_file": "assets/images/sw/3d/1.png", "bottom_file": "assets/images/sw/3d/1a.png"},
-                {"top_file": "assets/images/sw/3d/2.png", "bottom_file": "assets/images/sw/3d/2a.png"},
-                {"top_file": "assets/images/sw/3d/3.png", "bottom_file": "assets/images/sw/3d/3a.png"}
-            ],
-            "src_nav": [
-                "assets/images/sw/dronecap/DJI_0002.JPG",
-                "assets/images/sw/dronecap/DJI_0003.JPG",
-                "assets/images/sw/dronecap/DJI_0004.JPG"
-            ]
         }
     ]
 }`)
